@@ -3,7 +3,8 @@ using ShopGlobal.Api.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-builder.Services.AddOpenApi();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
 // Intentionally registering as Transient so a new instance is created every time
 builder.Services.AddTransient<CosmosService>();
@@ -17,7 +18,8 @@ var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
 // Initialize database and container on startup
