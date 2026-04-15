@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopGlobal — World-Class Shopping</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Top Banner -->
+    <div class="top-banner">
+        <span><i class="fas fa-globe"></i> Free worldwide shipping on orders over $50</span>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo" onclick="navigateTo('home')">
+                <i class="fas fa-shopping-bag"></i>
+                <span>ShopGlobal</span>
+            </div>
+            <div class="search-bar">
+                <i class="fas fa-search"></i>
+                <!-- Intentionally fires on every keystroke, no debounce -->
+                <input type="text" id="searchInput" placeholder="Search products..." oninput="onSearchInput(this.value)">
+                <div id="searchResults" class="search-dropdown"></div>
+            </div>
+            <div class="header-actions">
+                <div class="header-action" onclick="navigateTo('account')">
+                    <i class="fas fa-user"></i>
+                    <span>Account</span>
+                </div>
+                <div class="header-action cart-icon" onclick="navigateTo('cart')">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span>Cart</span>
+                    <span id="cartBadge" class="cart-badge" style="display:none">0</span>
+                </div>
+            </div>
+        </div>
+        <nav class="category-nav">
+            <!-- Intentionally loads ALL products per category on hover -->
+            <a onclick="browseCategory('Electronics')">Electronics</a>
+            <a onclick="browseCategory('Clothing')">Clothing</a>
+            <a onclick="browseCategory('Home')">Home</a>
+            <a onclick="browseCategory('Books')">Books</a>
+            <a onclick="browseCategory('Food')">Food</a>
+            <a onclick="navigateTo('admin')">Admin</a>
+        </nav>
+    </header>
+
+    <!-- Loading Overlay -->
+    <div id="loadingOverlay" class="loading-overlay" style="display:none">
+        <div class="spinner-container">
+            <div class="spinner"></div>
+            <p id="loadingText">Loading...</p>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main id="mainContent" class="main-content">
+        <!-- Dynamically replaced -->
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-grid">
+            <div>
+                <h4>ShopGlobal</h4>
+                <p>Your worldwide shopping destination. Fast delivery across 3 regions.</p>
+            </div>
+            <div>
+                <h4>Customer Service</h4>
+                <a href="#">Help Center</a>
+                <a href="#">Returns</a>
+                <a href="#">Shipping Info</a>
+            </div>
+            <div>
+                <h4>Company</h4>
+                <a href="#">About Us</a>
+                <a href="#">Careers</a>
+                <a href="#">Press</a>
+            </div>
+            <div>
+                <h4>Connect</h4>
+                <div class="social-icons">
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2026 ShopGlobal. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

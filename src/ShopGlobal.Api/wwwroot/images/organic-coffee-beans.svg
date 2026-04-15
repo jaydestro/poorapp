@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="50" y="35" width="100" height="130" rx="6" fill="#5d4037"/>
+  <rect x="55" y="40" width="90" height="120" rx="4" fill="#6d4c41"/>
+  <ellipse cx="85" cy="105" rx="12" ry="16" fill="#4e342e" transform="rotate(-15 85 105)"/>
+  <path d="M85 90 Q85 105 85 120" stroke="#3e2723" stroke-width="1" fill="none"/>
+  <ellipse cx="110" cy="100" rx="12" ry="16" fill="#4e342e" transform="rotate(10 110 100)"/>
+  <path d="M110 85 Q110 100 110 115" stroke="#3e2723" stroke-width="1" fill="none"/>
+  <ellipse cx="95" cy="120" rx="10" ry="14" fill="#4e342e" transform="rotate(-5 95 120)"/>
+  <path d="M95 107 Q95 120 95 133" stroke="#3e2723" stroke-width="1" fill="none"/>
+  <text x="100" y="60" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">ORGANIC</text>
+  <text x="100" y="72" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">COFFEE BEANS</text>
+  <path d="M80 80 Q90 78 95 80 Q100 78 110 80" stroke="white" stroke-width="0.5" fill="none" opacity="0.3"/>
+</svg>

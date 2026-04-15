@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <polygon points="70,150 55,80 145,80 130,150" fill="#c62828"/>
+  <polygon points="72,148 58,82 142,82 128,148" fill="#e53935"/>
+  <rect x="58" y="82" width="84" height="5" fill="#b71c1c"/>
+  <circle cx="85" cy="70" r="8" fill="#fff9c4"/>
+  <circle cx="100" cy="65" r="9" fill="#fff59d"/>
+  <circle cx="115" cy="70" r="8" fill="#fff9c4"/>
+  <circle cx="90" cy="58" r="7" fill="#fff59d"/>
+  <circle cx="108" cy="56" r="7" fill="#fff9c4"/>
+  <circle cx="100" cy="50" r="6" fill="#fff59d"/>
+  <circle cx="78" cy="62" r="6" fill="#fff9c4"/>
+  <circle cx="120" cy="63" r="6" fill="#fff59d"/>
+  <text x="100" y="175" font-family="Arial" font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold">GOURMET POPCORN</text>
+</svg>

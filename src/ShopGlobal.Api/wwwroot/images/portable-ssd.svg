@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="55" y="55" width="90" height="60" rx="8" fill="#1a1a2e"/>
+  <rect x="60" y="60" width="80" height="50" rx="5" fill="#16213e"/>
+  <text x="100" y="82" font-family="Arial" font-size="10" fill="#4a9eff" text-anchor="middle" font-weight="bold">1TB</text>
+  <text x="100" y="98" font-family="Arial" font-size="7" fill="#888" text-anchor="middle">SSD</text>
+  <path d="M75 115 L75 130 M125 115 L125 130" stroke="#e94560" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="75" cy="133" r="4" fill="#e94560"/>
+  <circle cx="125" cy="133" r="4" fill="#4a9eff"/>
+</svg>

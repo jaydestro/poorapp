@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="70" y="50" width="60" height="110" rx="4" fill="#33691e"/>
+  <rect x="75" y="55" width="50" height="100" rx="2" fill="#558b2f"/>
+  <rect x="85" y="35" width="30" height="20" rx="2" fill="#795548"/>
+  <rect x="90" y="30" width="20" height="10" rx="4" fill="#5d4037"/>
+  <rect x="80" y="75" width="40" height="35" rx="2" fill="#f5f5dc"/>
+  <text x="100" y="88" font-family="Arial" font-size="6" fill="#33691e" text-anchor="middle" font-weight="bold">EXTRA</text>
+  <text x="100" y="97" font-family="Arial" font-size="6" fill="#33691e" text-anchor="middle" font-weight="bold">VIRGIN</text>
+  <text x="100" y="106" font-family="Arial" font-size="5" fill="#558b2f" text-anchor="middle">OLIVE OIL</text>
+  <ellipse cx="100" cy="130" rx="8" ry="5" fill="#9e9d24" opacity="0.5"/>
+  <circle cx="95" cy="128" r="3" fill="#7cb342"/>
+  <circle cx="105" cy="130" r="3" fill="#689f38"/>
+</svg>

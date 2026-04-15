@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="55" y="45" width="90" height="120" rx="4" fill="#0d47a1"/>
+  <rect x="60" y="50" width="80" height="110" rx="2" fill="#1565c0"/>
+  <text x="100" y="72" font-family="Arial" font-size="7" fill="white" text-anchor="middle">SYSTEM</text>
+  <text x="100" y="86" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">DESIGN</text>
+  <text x="100" y="100" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">INTERVIEW</text>
+  <rect x="70" y="110" width="60" height="1" fill="white" opacity="0.3"/>
+  <text x="100" y="125" font-family="Arial" font-size="7" fill="white" text-anchor="middle" opacity="0.7">Alex Xu</text>
+  <rect x="55" y="45" width="8" height="120" rx="2" fill="#0a3670"/>
+</svg>

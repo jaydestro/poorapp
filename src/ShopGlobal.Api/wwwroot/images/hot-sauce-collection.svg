@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="45" y="60" width="30" height="90" rx="4" fill="#c62828"/>
+  <rect x="48" y="85" width="24" height="30" rx="2" fill="white"/>
+  <rect x="42" y="55" width="36" height="10" rx="3" fill="#b71c1c"/>
+  <rect x="85" y="50" width="30" height="100" rx="4" fill="#e65100"/>
+  <rect x="88" y="80" width="24" height="30" rx="2" fill="white"/>
+  <rect x="82" y="45" width="36" height="10" rx="3" fill="#bf360c"/>
+  <rect x="125" y="65" width="30" height="85" rx="4" fill="#f57f17"/>
+  <rect x="128" y="88" width="24" height="30" rx="2" fill="white"/>
+  <rect x="122" y="60" width="36" height="10" rx="3" fill="#f9a825"/>
+  <text x="60" y="104" font-family="Arial" font-size="5" fill="#c62828" text-anchor="middle" font-weight="bold">HOT</text>
+  <text x="100" y="99" font-family="Arial" font-size="5" fill="#e65100" text-anchor="middle" font-weight="bold">FIRE</text>
+  <text x="140" y="107" font-family="Arial" font-size="5" fill="#f57f17" text-anchor="middle" font-weight="bold">MILD</text>
+  <text x="100" y="175" font-family="Arial" font-size="9" fill="#c62828" text-anchor="middle" font-weight="bold">HOT SAUCE COLLECTION</text>
+</svg>

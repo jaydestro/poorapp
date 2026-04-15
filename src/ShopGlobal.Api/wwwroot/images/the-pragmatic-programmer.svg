@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="55" y="45" width="90" height="120" rx="4" fill="#2c3e50"/>
+  <rect x="60" y="50" width="80" height="110" rx="2" fill="#34495e"/>
+  <text x="100" y="72" font-family="Arial" font-size="7" fill="#f0a500" text-anchor="middle" font-weight="bold">THE</text>
+  <text x="100" y="86" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">PRAGMATIC</text>
+  <text x="100" y="100" font-family="Arial" font-size="9" fill="white" text-anchor="middle" font-weight="bold">PROGRAMMER</text>
+  <rect x="70" y="110" width="60" height="1" fill="#f0a500" opacity="0.5"/>
+  <rect x="55" y="45" width="8" height="120" rx="2" fill="#1a2530"/>
+</svg>

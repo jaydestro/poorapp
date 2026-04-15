@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="35" y="60" width="130" height="90" rx="6" fill="#f5e6d0"/>
+  <rect x="40" y="65" width="120" height="80" rx="4" fill="#faf0e0"/>
+  <path d="M45 80 Q60 75 75 82 Q90 88 105 80 Q120 72 135 80 Q150 88 155 82" stroke="#e8d0b0" stroke-width="2" fill="none"/>
+  <path d="M45 100 Q60 95 75 102 Q90 108 105 100 Q120 92 135 100 Q150 108 155 102" stroke="#e8d0b0" stroke-width="2" fill="none"/>
+  <path d="M45 120 Q60 115 75 122 Q90 128 105 120 Q120 112 135 120 Q150 128 155 122" stroke="#e8d0b0" stroke-width="2" fill="none"/>
+</svg>

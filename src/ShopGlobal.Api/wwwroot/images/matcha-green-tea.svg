@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="60" y="40" width="80" height="110" rx="4" fill="#2e7d32"/>
+  <rect x="65" y="45" width="70" height="100" rx="2" fill="#388e3c"/>
+  <circle cx="100" cy="90" r="20" fill="#4caf50" opacity="0.5"/>
+  <circle cx="100" cy="90" r="12" fill="#66bb6a" opacity="0.6"/>
+  <text x="100" y="68" font-family="Arial" font-size="8" fill="white" text-anchor="middle" font-weight="bold">MATCHA</text>
+  <text x="100" y="120" font-family="Arial" font-size="7" fill="white" text-anchor="middle" opacity="0.8">GREEN TEA</text>
+  <path d="M85 100 Q90 95 95 100 Q100 95 105 100 Q110 95 115 100" stroke="white" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <rect x="70" y="155" width="60" height="15" rx="3" fill="#81c784"/>
+  <text x="100" y="166" font-family="Arial" font-size="7" fill="white" text-anchor="middle">PREMIUM</text>
+</svg>

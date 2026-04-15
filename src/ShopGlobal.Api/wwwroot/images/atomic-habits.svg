@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="16" fill="#f0f4ff"/>
+  <rect x="55" y="45" width="90" height="120" rx="4" fill="#f0a500"/>
+  <rect x="60" y="50" width="80" height="110" rx="2" fill="#f5b800"/>
+  <text x="100" y="80" font-family="Arial" font-size="10" fill="#1a1a2e" text-anchor="middle" font-weight="bold">ATOMIC</text>
+  <text x="100" y="96" font-family="Arial" font-size="10" fill="#1a1a2e" text-anchor="middle" font-weight="bold">HABITS</text>
+  <rect x="70" y="108" width="60" height="1" fill="#1a1a2e" opacity="0.3"/>
+  <text x="100" y="125" font-family="Arial" font-size="7" fill="#1a1a2e" text-anchor="middle" opacity="0.7">James Clear</text>
+  <rect x="55" y="45" width="8" height="120" rx="2" fill="#d09000"/>
+</svg>
